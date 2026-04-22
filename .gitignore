@@ -1,0 +1,36 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+.metro-health-check*
+.expo/
+
+# Android
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/app/src/main/assets/index.android.bundle
+*.keystore
+!android/app/debug.keystore
+
+# Model file — too large for git, distributed via GitHub Releases
+*.tflite
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jest
+coverage/
+
+# TypeScript
+*.tsbuildinfo
