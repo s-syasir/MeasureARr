@@ -7,6 +7,10 @@ Open-source Android AR measuring app with zero Google dependencies.
 
 No ARCore. No Google Play Services. No telemetry. No network after install.
 
+<p align="center">
+  <img src="screenshots/example.png" alt="MeasureARr measuring a keyboard at 48.1 cm" width="300">
+</p>
+
 ---
 
 ## How it works
